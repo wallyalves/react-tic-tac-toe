@@ -9,9 +9,3 @@ Base game utilizing react-create-app tool
 * Add a toggle button that lets you sort the moves in either ascending or descending order.
 * When someone wins, highlight the three squares that caused the win.
 * When no one wins, display a message about the result being a draw.
-
-
-## Other improvements
-
-1. `CalculateWinner` is using dynamic programming as opposed to having a list of
-possible winning combinations (*in progress*)
